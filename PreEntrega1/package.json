@@ -1,0 +1,27 @@
+{
+  "name": "ejercicio3",
+  "version": "1.0.0",
+  "description": "Entregable 3 - Curso Backend CODERHOUSE",
+  "main": "src/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon src/app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pochenke/coderhouse.git"
+  },
+  "author": "Lucas Aquino",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pochenke/coderhouse/issues"
+  },
+  "homepage": "https://github.com/Pochenke/coderhouse#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^2.0.20",
+    "uuid": "^9.0.0"
+  },
+  "type": "module",
+  "keywords": []
+}
